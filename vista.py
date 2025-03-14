@@ -57,3 +57,5 @@ class Vista:
 
     def iniciar(self):
         self.ventana.mainloop()
+
+#JOHAN BORRERO desarrollo de aplicaciones web ii 
